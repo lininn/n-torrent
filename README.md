@@ -21,3 +21,5 @@ yarn lint
 ```
 
 将api文件夹放到服务器根目录
+demo:
+http://change.d-1.top
